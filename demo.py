@@ -11,6 +11,6 @@ ship.y= 70
 
 def draw():
     ship.draw()
-    ship
+    
 pgzrun.go()
 
